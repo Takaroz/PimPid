@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller output (แจก PimPid.exe ผ่าน GitHub Releases แทน)
+build/
+dist/
+*.spec
+
+# ค่าส่วนตัว / คำศัพท์ที่เพิ่มเอง
+config.json
+words_en.txt
+words_th.txt

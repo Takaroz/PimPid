@@ -1,0 +1,3 @@
+APP_NAME = "PimPid"
+VERSION = "1.0.0"
+PUBLISHER = "PimPid"
